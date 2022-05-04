@@ -1,0 +1,106 @@
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+ul a {
+    text-decoration: none;
+    color: white;
+}
+
+.TWP {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+
+}
+
+html {
+    background-image: url(https://media1.tenor.com/images/b314757ba34ccec1b52529ac4163de91/tenor.gif?itemid=10989022);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#Google {
+    background-image: url(https://th.bing.com/th/id/OIP.deHH5SIv7GcEYBAF8812NgHaFj?pid=ImgDet&rs=1);
+}
+
+#NetFlix {
+    background-image: url(https://www.wallpapersin4k.org/wp-content/uploads/2017/04/Color-Fade-Wallpaper-24.jpg);
+}
+
+#YouTube {
+    background-image: url(https://www.wallpapersin4k.org/wp-content/uploads/2017/04/Color-Fade-Wallpaper-15.png);
+}
+
+#Classroom {
+    background-image: url(https://www.wallpapersin4k.org/wp-content/uploads/2017/04/Color-Fade-Wallpaper-6.jpg);
+}
+
+#Okeene {
+    background-image: url(https://th.bing.com/th/id/R.840a987f37391b178d79cdaae547655c?rik=Aq5Qzqx4n4LXwA&pid=ImgRaw&r=0);
+}
+
+#Ixl {
+    background-image: url(https://th.bing.com/th/id/OIP.ptfOR_aRfT2bw-RJ1MDWxgHaEo?pid=ImgDet&rs=1);
+}
+
+#rei {
+    background-image: url(https://th.bing.com/th/id/OIP.opZsQydWSpQ1S8yX_odDGwHaEK?pid=ImgDet&rs=1);
+}
+
+
+
+ul li {
+    margin: 20px 20px;
+    width: 93%;
+    align-items: center;
+}
+
+.OP {
+    /* transition-delay: 1s; */
+    background-size: cover;
+    font-size: 50px;
+    transition: 2s width, 2s font-size;
+}
+
+.OP:hover {
+    width: 1234px;
+    font-size: 100px;
+}
+
+#ga {
+    color: white;
+    font-size: 20px;
+}
+
+#gl {
+    color: white;
+    font-size: 35px;
+}
+
+#W3 {
+    background-image: url(https://c1.staticflickr.com/5/4134/4745199972_4025b158c2_b.jpg);
+}
+
+#code {
+    background-image: url(https://www.wallpapersin4k.org/wp-content/uploads/2017/04/Color-Fade-Wallpaper-12.jpg);
+}
+
+#Button {
+    border: 5px solid black;
+    border-radius: 6px;
+    background-color: skyblue;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer; 
+    display: none;
+}
+
+#GM {
+    background-image: url(https://th.bing.com/th/id/OIP.M2bUS7hX4GSduVrORTsP6gHaEo?w=282&h=180&c=7&r=0&o=5&pid=1.7);
+}
+
+#OW {
+    background-image: url(https://th.bing.com/th/id/R.899d45868d0cefc01a10ec530529c6f1?rik=kBB2T3DYvkfCWg&riu=http%3a%2f%2ffc09.deviantart.net%2ffs71%2fi%2f2011%2f148%2f3%2fe%2fcolor_fade_strips_by_patburn13-d3hfzhv.jpg&ehk=wXRZAgFlygln4AZBThrjiTMYrJxxl%2bnvHERuA1deUMM%3d&risl=&pid=ImgRaw&r=0);
+}
